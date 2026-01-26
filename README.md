@@ -1,14 +1,14 @@
-# Hi there, I'm Krushna! 👋
+# Hi there, I'm Pradip! 👋
 
-I'm Krushna, a passionate software developer, with a love for building scalable applications, exploring new technologies. I thrive on turning ideas into reality through code and enjoy working on projects that make a meaningful impact.
+I'm Pradip, a passionate software developer, with a love for building scalable applications, exploring new technologies. I thrive on turning ideas into reality through code and enjoy working on projects that make a meaningful impact.
 
 ## About Me
 - 💻 I'm a Software Developer.
 - 🌱 I’m currently learning Generative AI.
 - 💬 Ask me about Web Development, Spring Boot, APIs...
-- 📫 How to reach me: krishaakharat@gmail.com
+- 📫 How to reach me: kakdepradip21@gmail.comm
 - 🚀 Goals: I’m passionate about contributing to open-source, building scalable systems.
-- 📄 [Resume](https://drive.google.com/file/d/1iy3Urbe8-Wf4SY5Z-ib8Ad5YmNBWMkBi/view?usp=sharing)
+- 📄 [Cv]()
 
   
 ## Get in Touch
@@ -45,10 +45,10 @@ I'm Krushna, a passionate software developer, with a love for building scalable 
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KrushnaKharat&show_icons=true" alt="Krushna Kharat" 
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kakdepradip&show_icons=true" alt="Pradip kakde" 
     height="210px" 
     />
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KrushnaKharat&show_icons=true&locale=en&layout=compact" alt="Krushna Kharat" height="210px"
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kakdepradip&show_icons=true&locale=en&layout=compact" alt="Pradip kakde" height="210px"
     />
 </p>
