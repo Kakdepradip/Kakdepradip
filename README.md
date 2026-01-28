@@ -44,9 +44,23 @@ I'm Pradip, a passionate software developer, with a love for building scalable a
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://www.servicenow.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-icon.svg" alt="servicenow" width="40" height="40"/></a>
-<a href="https://www.bmc.com/products/control-m.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/bmcsoftware/bmcsoftware-icon.svg" alt="control-m" width="40"
+<p>
+  <strong>Control-M</strong><br/>
+  <a href="https://www.bmc.com/products/control-m.html" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/bmcsoftware/bmcsoftware-icon.svg"
+         alt="control-m"
+         width="40"
+         height="40"/>
+  </a>
+  <a href="https://learn.microsoft.com/sql/ssms/sql-server-management-studio-ssms" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg"
+       alt="ssms"
+       width="40"
        height="40"/>
 </a>
+
+</p>
+
 
 </p>
 
