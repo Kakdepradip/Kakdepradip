@@ -11,6 +11,3 @@ I'm Pradip, a passionate software developer, with a love for building scalable a
 - 📄 [Cv]()
 
 
-</p>
-<p align="center"> <img src="https://streak-stats.demolab.com?user=Kakdepradip&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kakdepradip&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> </p>
